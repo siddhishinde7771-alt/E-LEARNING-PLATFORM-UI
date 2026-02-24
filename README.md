@@ -31,3 +31,8 @@ Responsive design for mobile and desktop
 This project helps in understanding how real-world e-learning platforms like Udemy, Coursera, and Byju's are structured on the front end.
 
 The task focuses only on the front-end part (UI/UX design and interactivity), without backend integration.
+
+OUTPUT:
+<img width="1896" height="904" alt="Image" src="https://github.com/user-attachments/assets/84d89a25-e40f-450a-a056-51d07f1dcfd8" />
+<img width="1893" height="904" alt="Image" src="https://github.com/user-attachments/assets/4d485bc3-8423-486b-be81-2718c438b320" />
+<img width="1920" height="906" alt="Image" src="https://github.com/user-attachments/assets/ff1ecfda-db91-4db6-97fe-a372bed211aa" />
