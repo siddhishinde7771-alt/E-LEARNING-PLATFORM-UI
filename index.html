@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>EduLearn - Online Learning Platform</title>
+    <title>TechTrek Academy - Online Learning Platform</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Tailwind -->
@@ -20,12 +20,14 @@
 <nav class="bg-white shadow-md sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-6 flex justify-between items-center h-16">
         <div onclick="showPage('home')" class="cursor-pointer text-2xl font-bold text-purple-600">
-            EduLearn
+            TechTrek Academy
         </div>
         <div class="flex gap-8 font-medium">
             <button onclick="showPage('home')">Home</button>
             <button onclick="showPage('courses')">Courses</button>
             <button onclick="showPage('learning')">My Learning</button>
+            <button onclick="showPage('contact')">Contact</button>
+            <button onclick="showPage('sign in')">Sign in</button>
         </div>
     </div>
 </nav>
@@ -140,6 +142,16 @@
 <div id="learning" class="page hidden p-10">
     <h1 class="text-4xl font-bold mb-6">My Learning</h1>
     <div id="enrolled-courses"></div>
+</div>
+
+<!-- Contact -->
+<div id="contact" class="page hidden p-10">
+    <h1 class="text-4xl font-bold mb-6">Contact</h1>
+</div>
+
+<!-- Sign in -->
+<div id="sign in" class="page hidden p-10">
+    <h1 class="text-4xl font-bold mb-6">Sign in</h1>
 </div>
 
 <!-- External JS -->
