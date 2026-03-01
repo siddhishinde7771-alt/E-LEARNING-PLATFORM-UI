@@ -33,6 +33,7 @@ This project helps in understanding how real-world e-learning platforms like Ude
 The task focuses only on the front-end part (UI/UX design and interactivity), without backend integration.
 
 OUTPUT:
-<img width="1896" height="904" alt="Image" src="https://github.com/user-attachments/assets/84d89a25-e40f-450a-a056-51d07f1dcfd8" />
-<img width="1893" height="904" alt="Image" src="https://github.com/user-attachments/assets/4d485bc3-8423-486b-be81-2718c438b320" />
-<img width="1920" height="906" alt="Image" src="https://github.com/user-attachments/assets/ff1ecfda-db91-4db6-97fe-a372bed211aa" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e75a8ce1-bac4-4472-8067-742821fe1c34" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8f9bff86-9b3a-4133-80d3-d816dc95c9b5" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/dad52bb7-f0a9-4814-ae65-02dcaecde15e" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3eef1ea0-2104-4230-9962-0ad95a8bec07" />
